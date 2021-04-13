@@ -30,3 +30,14 @@
 
 - En controller.php:
     - Si algún campo del formulario está vacío o no podemos escribir en el fichero, nos debe redirigir a add.php y mostrar en los campos del formulario la información que habíamos tecleado previamente.
+
+## Quinta iteración
+
+- Diseñar base de datos para prestamos
+    - Adjunta al repositorio el diseño realizado en ERDPlus
+- Insertar manualmente en la base de datos algunos préstamos
+- Modificar la aplicación para que obtenga el listado de préstamos de la base de datos.
+
+## Sexta iteración
+
+- Modificar la aplicación para insertar los préstamos en la base de datos en vez de en el fichero de texto.
