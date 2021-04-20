@@ -41,3 +41,10 @@
 ## Sexta iteración
 
 - Modificar la aplicación para insertar los préstamos en la base de datos en vez de en el fichero de texto.
+
+## Septima iteración
+
+- Añadir una sección "Amigos" donde aparezca un listado de las personas a las que se les ha prestado algo. Esta sección se debe mostrar en el index.
+
+- Cuando se haga click encima de uno de los amigos se debe poder ver el listado de los prestamos asociados.
+    - Crea una página friendDetail.php para mostrar esos prestamos.
