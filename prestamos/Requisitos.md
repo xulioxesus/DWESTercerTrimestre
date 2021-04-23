@@ -47,4 +47,11 @@
 - Añadir una sección "Amigos" donde aparezca un listado de las personas a las que se les ha prestado algo. Esta sección se debe mostrar en el index.
 
 - Cuando se haga click encima de uno de los amigos se debe poder ver el listado de los prestamos asociados.
-    - Crea una página friendDetail.php para mostrar esos prestamos.
+    
+## Octava iteración
+
+- Permitir borrado de préstamos desde el listado de todos los préstamos o cuando se muestra el detalle de una persona.
+
+## Novena iteración
+
+- Permitir la edición de los préstamos desde las dos vistas posibles.
